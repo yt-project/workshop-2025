@@ -12,3 +12,8 @@ To install the base requirements with `pip`:
 python -m pip install --upgrade pip 
 python -m pip install -r requirements.txt
 ```
+
+## Useful links
+
+* [meeting schedule](https://indico.ph.ed.ac.uk/event/346/timetable/#20250715)
+* Join slack [here](https://yt-project.org/slack.html) (and don't forget to join the higgs-2025-workshop channel!)

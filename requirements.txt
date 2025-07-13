@@ -1,4 +1,4 @@
-yt[enzo]>=4.4.0
+yt[enzo,ramses]>=4.4.0
 h5py
 pooch
 pandas

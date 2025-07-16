@@ -195,4 +195,6 @@ cython_debug/
 
 
 *.zarr
+
 *.h5
+imgui.ini

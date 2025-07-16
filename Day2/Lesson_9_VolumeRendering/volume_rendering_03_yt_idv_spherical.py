@@ -119,6 +119,9 @@ if __name__ == "__main__":
             f"domain must be one of {list(bbox_options.keys())}, found {args.domain}"
         )
 
+
+
+    ds = _build_ds(args.domain)
     if args.listfields:
         print("available fields:")
         print(ds.field_list)
@@ -126,8 +129,6 @@ if __name__ == "__main__":
     if args.listdomains:
         print("available domains:")
         print("\n    ".join(list(bbox_options.keys())))
-
-    ds = _build_ds(args.domain)
     fld = tuple(str(args.field).split(","))
 
     rc = yt_idv.render_context(height=800, width=800, gui=True)

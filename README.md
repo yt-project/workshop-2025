@@ -5,6 +5,7 @@ This repository contains Jupyter notebooks and links to videos for the tutorials
 * webpage: https://indico.ph.ed.ac.uk/event/346/
 * program: https://indico.ph.ed.ac.uk/event/346/timetable/
 * youtube playlist: https://www.youtube.com/playlist?list=PL8tPWjc5gBfQLLvTK1G_48o_D6RgaLC48
+* sample datasets: https://girder.hub.yt/#collection/68628933ed776d031cebf8ea
 
 ## Workshop Videos
 The links below are to the individual presentation videos on youtube. See the [youtube playlist](https://www.youtube.com/playlist?list=PL8tPWjc5gBfQLLvTK1G_48o_D6RgaLC48) for a playlist of all presentations.
